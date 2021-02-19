@@ -1,0 +1,23 @@
+person:
+  userName: undojoy
+  boss: true
+  birth: 2021/1/12
+  age: 18
+  pet:
+    name: dd
+    weight: 22.99
+  interests:
+    - study
+    - reading
+  animal: [pig,cat,dog]
+  score: {math:44,english:67}
+  salarys:
+    - 33.99
+    - 89.111
+  allPets:
+    sick: [{name:cc,weight:44},{name:ee,weight:99}]
+    health:
+      - name: ff
+        weight: 77.88
+      - name: uu
+        weight: 99.00
